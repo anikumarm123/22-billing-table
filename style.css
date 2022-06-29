@@ -1,0 +1,53 @@
+.oc-status{
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: rgb(57, 83, 4);
+}
+.tbl{
+  text-align: center;
+  margin: 50px 150px;
+  font-size: 29px;
+  background-size: cover;
+  color:#fbfbf9;
+  font-weight: bolder;
+
+  
+}
+table{
+  background-image: url(/img-1.jpg);
+  background-size: cover;
+}
+table, th,td,tr{
+  border-collapse: collapse;
+  border: 2px solid#FF9800;
+}
+th,td,tr{
+  width: 280px;
+  height: 50px;
+  
+}
+.the{
+  text-align:right;
+  padding-right: 50px;
+}
+select{
+  padding: 4px 60px;
+  border-radius: 10px;
+  font-size: 26px;
+  background-color: unset;
+  color:white;
+  font-weight: bold;
+}
+select:hover{
+  background-color: white;
+  color: #FFEB3B;
+}
+.slt option{
+  font-size: 20px;
+  color:blue;
+  background: none
+}
+
+  
